@@ -8,16 +8,23 @@ Like Ghent in 2009, it was a transitional moment in DevOps: dev, sec, and ops ha
 
 Through the last 15 years there have been transformational waves in devops like DevSecOps (security invited to the party) and around 2013 global acceptance then 2016 the global hegemony of devops practices. 
 
-The addition of LLMs to integrations and new toolings feels very right. The dev/sec/ops frame Patrick provides makes the material even more accessible and understandable. Patrick, as a learner and teacher, has a special way of doing this.
+The addition of LLMs to integrations and new toolings feels very right. The dev/sec/ops frame Patrick provides makes the material even more accessible and understandable. As a learner, teacher/presenter, he has a special way of doing this. The magic ingredient seems a joy in learning which is also accessible and very relatable for me. Check out his [learning llms repo for dev/sec/ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops). 
+
+_In these spaces, the true love of learning and sharing is as foundational as the air we breathe. It was a catalyst for a cultural movement and subsequent technological reformations. For visionaries like Dubois and Willis, the constant hunger for knowledge and the drive to share it act like fertile seeds. Ideas take root in the DevOps communities nurtured by an infectious enthusiasm. This continual growth cultivates a cultural movement that blossoms into groundbreaking technological advancements.
+
 ____
 
 - [MongoDB](https://www.mongodb.com/) and [Amazon AWS](https://aws.amazon.com/) sponsored the event. Stacks in the Hackathon included using AWS Sagemaker, Kendra, Amazon Q and S3 to create a sample app. 
 - MongoDB Atlas and vector databases were a focused and using MongoDB was a highlight as easy-to-deploy. See [MongoDB setup sheet] (all free-tier).
 
-- Takeaway: Working with LLMs and tool integrations with the sensibilities of DevSecOps is the default. Solutions being built by startups have DevSecOps (and now GenAI) sensibilities baked-in. The emergence of models as utility, and the prodigious growth of  and how to create value from unharnessed *unstructured data* for companies holds great promise.
+- Takeaway: Working with LLMs and tool integrations with the sensibilities of DevSecOps is the default. Solutions being built by startups have DevSecOps (and now LLMOps) sensibilities baked-in. The emergence of models as utility OS and the prodigious growth of and how to create value from unharnessed *unstructured data*.  
 
-____
 
+### Hackathon Repos 
+
+- MongoDB as a sponser has a ton of awesome resources out there. Apparently they're on Tour and it's a cool approach for even wider exposure to MongoDB Atlas, the power of vectorstores and true engagement through DevOps OGs Patrick and John. (See separate section to highlight the MongoDB.local Sessions) This apporoach makes it super easy to get Atlas rockin, learn about vector databases and producing tangible things in hours. Pretty dope. 
+
+#### January 24th Hackathon
 - Repos for the [January 24th Hackathon](https://github.com/OperationalizingAI/Hackathon-1-24-24) 
 - [Follow along](https://github.com/OperationalizingAI/Hackathon-1-24-24/blob/main/NYC%20GenAI%20Hackathon%20Preparation%20Sheet.pdf) and complete the steps for the Hackathon.
 - Enjoy the [readout](https://github.com/OperationalizingAI/Hackathon-1-24-24/blob/main/Hackathon%2001-24-24%20Projects%20and%20Readouts.pdf) from the day's session
