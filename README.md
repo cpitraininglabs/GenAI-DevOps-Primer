@@ -36,7 +36,7 @@ ____
 
 - April 8th resources and links 
 - April 20 (San Francisco) 
-- May 2nd (MongoDB.local Hackathon at the Javitz Center) 
+- May 2nd (MongoDB.local Hackathon at the Javitz Center) So amazing and well put together! *it was dope!* Kudos to the MongoDB team rocking non-stop and putting on an absolutely spendid event. I particularly enjoyed Patrick Debois and John Willis' presentation on the impact of GenAI on Dev and Ops. Spoiler: Prepare for a Tsunami of tech debt complexity and risk. Another cool session was creatiing Ordering agents (for shirts) with Vertex AI. OMG, I finally scored some Google sock swag. Also had the incredible priviledge and honor to join, learn from, and be inspired by three of the greatest minds and kindest souls in devops and genai. What an incredible experience. We encountered and were served by a septagenarian Green Baret from Franco's army whilst he shared his adventures and we all we suddenly were in a David Lynch Film and having amazing food and fun. I'll never forget this. 
 
 ## Patrick's Primers 
 
