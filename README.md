@@ -1,6 +1,6 @@
 ## GenAI-DevOps-Primer Overview
 
-The inspiration and much of the material for the below GenAI resources comes from none other than [Patrick Debois](https://www.jedi.be/), the Godfather and OG of DevOps cultural movement and DevOpsDays. 
+The inspiration and much of the material for the below GenAI resources comes from none other than [Patrick Debois](https://www.jedi.be/), the Prime Mover and OG of DevOps cultural movement and DevOpsDays. 
 
 The first [NYC GenAI DevOps Hackathon](https://www.mongodb.com/community/forums/t/new-york-devops-for-genai-hackathon-nyc/260804) was held on January 24th 2024. 
 
@@ -10,7 +10,7 @@ Through the last 15 years there have been transformational waves in devops like 
 
 The addition of LLMs to integrations and new toolings feels very right. The dev/sec/ops frame Patrick provides makes the material even more accessible and understandable. As a learner, teacher/presenter, he has a special way of doing this. The magic ingredient seems a joy in learning which is also accessible and very relatable for me. Check out his [learning llms repo for dev/sec/ops](https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops). 
 
-_In these spaces, the true love of learning and sharing is as foundational as the air we breathe. It was a catalyst for a cultural movement and subsequent technological reformations. For visionaries like Dubois and Willis, the constant hunger for knowledge and the drive to share it act like fertile seeds. Ideas take root in the DevOps communities nurtured by an infectious enthusiasm. This continual growth cultivates a cultural movement that blossoms into groundbreaking technological advancements.
+_In these spaces, the true love of learning and sharing is as present as the air we breathe. It was a catalyst for a cultural movement and subsequent technological reformations. For visionaries like Dubois and Willis, the constant hunger for knowledge and the drive to share creates a massive wave of curiosity and learning. Ideas take root in the DevOps communities nurtured by an infectious enthusiasm. This continual growth cultivates a cultural movement in-situ that blossoms into groundbreaking technological advancements. One of the joyful gifts of DevOpsDays is this local context._
 
 ____
 
